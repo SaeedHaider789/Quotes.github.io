@@ -1,0 +1,23 @@
+*{
+    font-family: 'Playfair Display', serif;
+}
+.bg-custom{
+    background-color: rgb(199, 193, 247);
+}
+.libre-baskerville-bold{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#container-for-mainBox{
+    width:50%; 
+    height: 100vh;
+}
+#head-underline{
+    height: 1px;
+    width: 130px;
+} 
+#auth-underline{
+    height: 1px;
+    width: 35px;
+} 
